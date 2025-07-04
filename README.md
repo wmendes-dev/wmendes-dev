@@ -10,7 +10,7 @@ No frontend, atuo com React, Angular e Vue para construir interfaces modernas e 
 
 ---
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div align="center" style="display: flex; justify-content: space-around; align-items: center;">
 
 <img height="35" width="35" src="./assets/java.svg" alt="Java"/>
 <img height="35" width="35" src="./assets/spring.svg" alt="Spring"/>
