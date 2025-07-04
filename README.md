@@ -12,19 +12,19 @@ No frontend, atuo com React, Angular e Vue para construir interfaces modernas e 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
-<img height="35" src="./assets/java.svg" alt="Java"/>
-<img height="35" src="./assets/spring.svg" alt="Spring"/>
-<img height="35" src="./assets/react.svg" alt="React"/>
-<img height="35" src="./assets/angular.svg" alt="Angular"/>
-<img height="35" src="./assets/vue.svg" alt="Vue"/>
-<img height="35" src="./assets/graphql.svg" alt="GraphQL" />
-<img height="35" src="./assets/docker.svg" alt="Docker"/>
-<img height="35" src="./assets/kafka.svg" alt="Kafka"/>
-<img height="35" src="./assets/redis.svg" alt="Redis"/>
-<img height="35" src="./assets/oracle.svg" alt="Oracle"/>
-<img height="35" src="./assets/postgresql.svg" alt="PostgreSQL"/>
-<img height="35" src="./assets/sqlserver.svg" alt="SQL Sever"/>
-<img height="35" src="./assets/mongodb.svg" alt="MongoDB"/>
-<img height="35" src="./assets/git.svg" alt="Git"/>
+<img height="35" width="35" src="./assets/java.svg" alt="Java"/>
+<img height="35" width="35" src="./assets/spring.svg" alt="Spring"/>
+<img height="35" width="35" src="./assets/react.svg" alt="React"/>
+<img height="35" width="35" src="./assets/angular.svg" alt="Angular"/>
+<img height="35" width="35" src="./assets/vue.svg" alt="Vue"/>
+<img height="35" width="35" src="./assets/graphql.svg" alt="GraphQL" />
+<img height="35" width="35" src="./assets/docker.svg" alt="Docker"/>
+<img height="35" width="35" src="./assets/kafka.svg" alt="Kafka"/>
+<img height="35" width="35" src="./assets/redis.svg" alt="Redis"/>
+<img height="35" width="35" src="./assets/oracle.svg" alt="Oracle"/>
+<img height="35" width="35" src="./assets/postgresql.svg" alt="PostgreSQL"/>
+<img height="35" width="35" src="./assets/sqlserver.svg" alt="SQL Sever"/>
+<img height="35" width="35" src="./assets/mongodb.svg" alt="MongoDB"/>
+<img height="35" width="35" src="./assets/git.svg" alt="Git"/>
 
 </div>
