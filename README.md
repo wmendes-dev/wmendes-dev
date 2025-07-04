@@ -6,7 +6,7 @@
 
 Atualmente, aprofundo meus conhecimentos em Kafka, Event-Driven Architecture (EDA), Domain-Driven Design (DDD) e padrões como Outbox Pattern, Saga Pattern, além de comunicação eficiente com gRPC. Meu foco é desenvolver soluções robustas, consistentes e de alta disponibilidade para ambientes distribuídos.
 
-No frontend, atuo com React, Angular e Vue para construir interfaces modernas e responsivas, mantendo foco na melhor experiência para o usuário. Gosto de entender as necessidades das pessoas para desenvolver soluções que fazem diferença no dia a dia, sempre buscando entregar valor real com tecnologia de ponta.
+No frontend, atuo com React, Angular e Vue, visando sempre construir interfaces modernas e responsivas, mantendo foco na melhor experiência para o usuário. Gosto de entender as necessidades das pessoas para desenvolver soluções que fazem diferença no dia a dia, sempre buscando entregar valor real com tecnologia de ponta.
 
 ---
 
