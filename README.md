@@ -2,9 +2,9 @@
 
 ---
 
-**Sou um apaixonado por tecnologia e inovação! Com mais de 13 anos de experiência em desenvolvimento de software, atuo como desenvolvedor Full Stack, focado no backend com Java e arquitetura de microsserviços.**
+**Sou um apaixonado por tecnologia e inovação! Com mais de 13 anos de experiência, atuo como desenvolvedor Full Stack, com foco principal no backend utilizando Java e arquitetura de microsserviços.**
 
-Atualmente, aprofundo meus conhecimentos em Kafka, Event-Driven Architecture (EDA), Domain-Driven Design (DDD) e padrões como Outbox Pattern, Saga Pattern, além de comunicação eficiente com gRPC. Meu foco é desenvolver soluções robustas, consistentes e de alta disponibilidade para ambientes distribuídos.
+Atualmente, aprofundo meus conhecimentos em arquitetura orientada a eventos (Event-Driven Architecture), Domain-Driven Design (DDD) e padrões modernos como Outbox Pattern, Saga Pattern e comunicação eficiente entre serviços utilizando gRPC. Meu foco é desenvolver soluções robustas, consistentes e de alta disponibilidade para ambientes distribuídos.
 
 No frontend, atuo com React, Angular e Vue, visando sempre construir interfaces modernas e responsivas, mantendo foco na melhor experiência para o usuário. Gosto de entender as necessidades das pessoas para desenvolver soluções que fazem diferença no dia a dia, sempre buscando entregar valor real com tecnologia de ponta.
 
